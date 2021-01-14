@@ -1,5 +1,5 @@
 # Aplicação para registro de despesas pessoais!
-App Orçamento Pessoal feito com o auxílio do instrutor Jorge Sant Ana do curso Desenvolvimento Web 2020 na plataforma Udemy. 
+App Orçamento Pessoal feito com o auxílio do instrutor Jorge Sant Ana do curso ![Desenvolvimento Web 2020](https://www.udemy.com/course/web-completo/learn/) na plataforma Udemy. 
 
 ![Capa-app](https://pbs.twimg.com/media/Eqra5AcXIAAYJMG?format=jpg&name=medium)
 
